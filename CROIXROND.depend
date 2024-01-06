@@ -1,0 +1,2661 @@
+# depslib dependency file v1.0
+1672750568 source:c:\users\abott\onedrive\bureau\croixrond\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+
+1672751064 c:\users\abott\onedrive\bureau\croixrond\morpion.h
+	<stdbool.h>
+
+1672751071 source:c:\users\abott\onedrive\bureau\croixrond\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1672749779 source:c:\users\abott\onedrive\bureau\croixrond\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1672744778 c:\users\abott\onedrive\bureau\croixrond\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1671539233 c:\users\abott\onedrive\bureau\croixrond\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1673250082 source:c:\users\abott\onedrive\bureau\croixrond_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+
+1673250269 c:\users\abott\onedrive\bureau\croixrond_v3\morpion.h
+	<stdbool.h>
+
+1672744778 c:\users\abott\onedrive\bureau\croixrond_v3\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1673250269 source:c:\users\abott\onedrive\bureau\croixrond_v3\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1673250690 source:c:\users\abott\onedrive\bureau\croixrond_v3\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1673250269 source:c:\users\abott\onedrive\bureau\extension1\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1673250269 c:\users\abott\onedrive\bureau\extension1\morpion.h
+	<stdbool.h>
+
+1673279383 c:\users\abott\onedrive\bureau\extension1\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1673279881 source:c:\users\abott\onedrive\bureau\extension1\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1673279718 source:c:\users\abott\onedrive\bureau\extension1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+
+1673279881 source:c:\users\abott\onedrive\bureau\progc\extension1\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1673279383 c:\users\abott\onedrive\bureau\progc\extension1\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1673250269 c:\users\abott\onedrive\bureau\progc\extension1\morpion.h
+	<stdbool.h>
+
+1673886919 source:c:\users\abott\onedrive\bureau\progc\extension1\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1673890143 source:c:\users\abott\onedrive\bureau\progc\extension1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1673886264 c:\users\abott\onedrive\bureau\progc\extension1\save.c
+	<stdio.h>
+	<stdlib.h>
+	"save.h"
+
+1673890151 c:\users\abott\onedrive\bureau\progc\extension1\save.h
+	"morpion.h"
+
+1673890007 source:c:\users\abott\onedrive\bureau\progc\extension1\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+
+1673279881 source:c:\users\abott\onedrive\bureau\progc\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1673279383 c:\users\abott\onedrive\bureau\progc\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1673250269 c:\users\abott\onedrive\bureau\progc\extension2_v0\morpion.h
+	<stdbool.h>
+
+1674494891 source:c:\users\abott\onedrive\bureau\progc\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1674670494 source:c:\users\abott\onedrive\bureau\progc\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1674670445 c:\users\abott\onedrive\bureau\progc\extension2_v0\save.h
+	"morpion.h"
+
+1674670644 source:c:\users\abott\onedrive\bureau\progc\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+
+1675078422 source:c:\users\ahaye\downloads\extension2_v2\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1675078422 c:\users\ahaye\downloads\extension2_v2\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1675078422 c:\users\ahaye\downloads\extension2_v2\extension2_v0\morpion.h
+	<stdbool.h>
+
+1675078422 source:c:\users\ahaye\downloads\extension2_v2\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1675083140 source:c:\users\ahaye\downloads\extension2_v2\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1675078422 c:\users\ahaye\downloads\extension2_v2\extension2_v0\save.h
+	"morpion.h"
+
+1675082472 source:c:\users\ahaye\downloads\extension2_v2\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+
+1675078422 source:c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1675078422 c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1675078422 c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\morpion.h
+	<stdbool.h>
+
+1675097888 source:c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1675097494 c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\save.h
+	"morpion.h"
+
+1675078422 source:c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1675097494 source:c:\users\ahaye.sfasp2mi\downloads\extension2_v2\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+
+1675157618 source:c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1675157618 c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1675269876 c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\morpion.h
+	<stdbool.h>
+
+1675157618 source:c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1675269830 source:c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1675340823 c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\save.h
+	"morpion.h"
+
+1675340698 source:c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+
+1675158623 source:c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1669040318 c:\users\abott\onedrive\bureau\extension2_v2\extension2_v0\myassert.h
+	<stdbool.h>
+
+1675341073 source:c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1675341073 c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1675341073 c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\morpion.h
+	<stdbool.h>
+
+1675341073 source:c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1675342107 c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\save.h
+	"morpion.h"
+
+1675341073 source:c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1675341073 source:c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1675341073 c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\myassert.h
+	<stdbool.h>
+
+1675342567 source:c:\users\ahaye\downloads\extension2\extension2_v2\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+
+1675351529 source:c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1675351529 c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1675351529 c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\morpion.h
+	<stdbool.h>
+
+1675351529 source:c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1675353924 c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\save.h
+	"morpion.h"
+
+1675355085 source:c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1675351529 source:c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1675351529 c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\myassert.h
+	<stdbool.h>
+
+1675354812 source:c:\users\ahaye.sfasp2mi\downloads\supersmashultimateversion\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+
+1676898202 source:c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1676898202 c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1676898202 c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\morpion.h
+	<stdbool.h>
+
+1676898202 source:c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1676903691 c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\save.h
+	"morpion.h"
+
+1676898202 source:c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1676898202 source:c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1676898202 c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\myassert.h
+	<stdbool.h>
+
+1676902610 source:c:\users\ahaye\downloads\voidv1\supersmashultimateversion\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+
+1677508345 source:c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1677500116 c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1677507766 c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\morpion.h
+	<stdbool.h>
+
+1677515240 source:c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1677513029 c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\save.h
+	"morpion.h"
+
+1677515666 source:c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1677500116 source:c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1677500116 c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\myassert.h
+	<stdbool.h>
+
+1677514975 source:c:\users\ahaye.sfasp2mi\downloads\versionbinairetest\versionbinairetest\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+
+1677572325 source:c:\users\abott\downloads\morpion (1)\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1677572325 c:\users\abott\downloads\morpion (1)\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1677572325 c:\users\abott\downloads\morpion (1)\extension2_v0\morpion.h
+	<stdbool.h>
+
+1677572325 source:c:\users\abott\downloads\morpion (1)\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+
+1677572325 c:\users\abott\downloads\morpion (1)\extension2_v0\save.h
+	"morpion.h"
+
+1677572325 source:c:\users\abott\downloads\morpion (1)\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1677572325 source:c:\users\abott\downloads\morpion (1)\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1677572325 c:\users\abott\downloads\morpion (1)\extension2_v0\myassert.h
+	<stdbool.h>
+
+1677572325 source:c:\users\abott\downloads\morpion (1)\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+
+1677572325 source:c:\users\abott\onedrive\bureau\extension2_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1677572325 c:\users\abott\onedrive\bureau\extension2_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1678378779 c:\users\abott\onedrive\bureau\extension2_v0\morpion.h
+	<stdbool.h>
+
+1678378988 source:c:\users\abott\onedrive\bureau\extension2_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2\SDL.h>
+	<SDL2\SDL_ttf.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+	"graph.c"
+
+1677572325 c:\users\abott\onedrive\bureau\extension2_v0\save.h
+	"morpion.h"
+
+1678378700 source:c:\users\abott\onedrive\bureau\extension2_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1677572325 source:c:\users\abott\onedrive\bureau\extension2_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1677572325 c:\users\abott\onedrive\bureau\extension2_v0\myassert.h
+	<stdbool.h>
+
+1678377899 source:c:\users\abott\onedrive\bureau\extension2_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+	<SDL2\SDL.h>
+
+1650906806 c:\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1650906806 c:\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\begin_code.h
+
+1650906807 c:\sdl2\include\sdl2\close_code.h
+
+1650906806 c:\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1678378458 c:\users\abott\onedrive\bureau\extension2_v0\graphique.h
+
+1451809155 c:\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1678379385 c:\users\abott\onedrive\bureau\extension2_v0\graph.h
+
+1678380383 c:\users\abott\onedrive\bureau\extension2_v0\graph.c
+	<SDL2\SDL.h>
+	<SDL2\SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"graph.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\begin_code.h
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\close_code.h
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906807 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650906806 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451809155 c:\users\abott\onedrive\bureau\extension2_v0\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680038621 source:c:\users\abott\onedrive\bureau\morpion_graph_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1677575925 c:\users\abott\onedrive\bureau\morpion_graph_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1678382379 c:\users\abott\onedrive\bureau\morpion_graph_v0\morpion.h
+	<stdbool.h>
+
+1679306085 source:c:\users\abott\onedrive\bureau\morpion_graph_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1677575925 source:c:\users\abott\onedrive\bureau\morpion_graph_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1677575925 c:\users\abott\onedrive\bureau\morpion_graph_v0\myassert.h
+	<stdbool.h>
+
+1680040667 source:c:\users\abott\onedrive\bureau\morpion_graph_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2\SDL.h>
+	<SDL2\SDL_ttf.h>
+	"morpion.h"
+	"ia.h"
+	"save.h"
+	"graph.c"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\begin_code.h
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\close_code.h
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910407 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1650910406 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451812755 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1679309043 c:\users\abott\onedrive\bureau\morpion_graph_v0\save.h
+	"morpion.h"
+
+1680044212 c:\users\abott\onedrive\bureau\morpion_graph_v0\graph.c
+	<SDL2\SDL.h>
+	"SDL2\SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"graph.h"
+
+1680042638 c:\users\abott\onedrive\bureau\morpion_graph_v0\graph.h
+
+1679309204 source:c:\users\abott\onedrive\bureau\morpion_graph_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+	<SDL2\SDL.h>
+	<pthread.h>
+
+1680025243 c:\users\abott\onedrive\bureau\morpion_graph_v0\sdl2\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680095860 source:c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\ia.c
+	<stdio.h>
+	<stdlib.h>
+	"ia.h"
+
+1680092914 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\ia.h
+	<stdbool.h>
+	"morpion.h"
+
+1680092914 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\morpion.h
+	<stdbool.h>
+
+1680107498 source:c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"SDL2\include\SDL2\SDL.h"
+	"SDL2\include\SDL2\SDL_ttf.h"
+	"morpion.h"
+	"ia.h"
+	"save.h"
+	"graph.c"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\begin_code.h
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\close_code.h
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680105720 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\save.h
+	"morpion.h"
+
+1680107554 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\graph.c
+	"SDL2\include\SDL2\SDL.h"
+	"SDL2\include\SDL2\SDL_ttf.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"graph.h"
+
+1680101168 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\graph.h
+
+1680098125 source:c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"assert.h"
+	"morpion.h"
+	"ia.h"
+
+1680092914 source:c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\myassert.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<unistd.h>
+	"myassert.h"
+
+1680092914 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\myassert.h
+	<stdbool.h>
+
+1680107553 source:c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\save.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"save.h"
+	"myassert.h"
+	"morpion.h"
+	"SDL2\include\SDL2\SDL.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\begin_code.h
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\close_code.h
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092915 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1680092916 c:\users\blacro04.sfasp2mi\downloads\29_03_tres_tard.zip-20230329t122742z-001\29_03_tres_tard\morpion_graph_v0\\sdl2\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
