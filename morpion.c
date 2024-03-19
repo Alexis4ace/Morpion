@@ -8,7 +8,7 @@
 
 
 
-TplateauJeu init_plateau(int longueur, int largeur){ // init la matrice
+TplateauJeu init_plateau(int longueur, int largeur){ // init la matrice des cases du plateau
     TplateauJeu plateau = malloc((longueur+2)*sizeof(Case));
     for(int i = 0; i < longueur + 2; i++){
         plateau[i] = malloc((largeur+2)*sizeof(Case));
@@ -40,10 +40,11 @@ void affiche_note(TplateauJeu p){ // affichage des note graphique ( uniquement p
         printf("\n");
     }
 }
-bool appartientPlateau( int x , int y ){
+bool appartientPlateau( int x , int y ){ // test de debordement 
     return x > 0 && x <= LONGUEUR && y <=LARGEUR && y > 0 ;;
 }
 
+// test si le joueur est un oridnateur
 bool estOrdi( int symb , int **jeuSymb ){
     for(int i = 0 ; i < jeuSymb[1][0] ; i++){
 
@@ -66,6 +67,7 @@ void affiche_symbole(int **p,int humain , int ordi){
 
 }
 
+//affecte des symboles aux ordis et humains ( entier avec affichage en string en mode console qui devient symbole ASCII )
 int** affectationSymb(int humain , int ordinateur , int *symb){
     int** tabSymb = malloc( 2*sizeof(int) );
 
@@ -108,6 +110,7 @@ int* generationSymb(int nombres){
     return symb;
 }
 
+//interface utilisateur pour enregistrer un nombre de joueurs et ordinateurs
 void init_joueur(int *humainMAX , int *ordinateurMAX){
 
     int x=-1,y=-1;
@@ -130,6 +133,7 @@ void init_joueur(int *humainMAX , int *ordinateurMAX){
     *ordinateurMAX = y ;
 }
 
+// desalocation
 void free_all(int *tabsymb , int **OrdiJoueurSymb , TplateauJeu plateau){
     for(int i = 0 ; i < LONGUEUR+2 ; i++)
         free(plateau[i]);
