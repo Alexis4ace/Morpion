@@ -6,8 +6,9 @@
 #include "morpion.h"
 #include "SDL2\include\SDL2\SDL.h"
 
+//fonction d ecriture d un entier en binaire ( note d un quintuplé )
 void ecrit_int_bi(char *name, int *val ){ // sauvegarde un entier si entier != null
-    FILE *fd = fopen(name,"ab");                                        // si bool == true alors fait un retour � la ligne
+    FILE *fd = fopen(name,"ab");                                        // si bool == true alors fait un retour à la ligne
 
     if( val != NULL)    // on peux donc enregister un entier ou non ( +espace obligatoire )
     {
@@ -18,7 +19,9 @@ void ecrit_int_bi(char *name, int *val ){ // sauvegarde un entier si entier != n
     fclose(fd);
 
 }
-void ecrit_int_txt(char *name, int *val ,bool retourLigne ){ // sauvegarde un entier si entier != null                                            // si bool == true alors fait un retour � la ligne
+
+// fonction d ecriture d un entier en format texte
+void ecrit_int_txt(char *name, int *val ,bool retourLigne ){ // sauvegarde un entier si entier != null            // si bool == true alors fait un retour à la ligne
     FILE *fd = fopen(name,"a");
 
     if( val != NULL){    // on peux donc enregister un entier ou non ( +espace obligatoire )
@@ -33,15 +36,19 @@ void ecrit_int_txt(char *name, int *val ,bool retourLigne ){ // sauvegarde un en
     }
     fclose(fd);
 }
+
+//fonction d ecriture d un caractere en texte ( symbole d un joueur )
 void ecrit_char_txt(char *name, char *p){
     FILE *fd = fopen(name,"a");
     fprintf(fd,"%s",p);
     fclose(fd);
 }
 
+// chargement du plateau note et joueur si cette case est occupe
+// en binaire ou text depend de l extension du fichier
 void load_plateau(char *name, int * joueur , TplateauJeu *j){
 
-    for(int n=0 ; n < LARGEUR-2 ; n++) // Fait planter car tu libere puis ajuste apres
+    for(int n=0 ; n < LARGEUR-2 ; n++) 
        free((*j)[n]);
     free(*j);
     bool binaire = isBinaire(name) ;
@@ -70,6 +77,8 @@ void load_plateau(char *name, int * joueur , TplateauJeu *j){
 
     *j=plateau;
 }
+
+// chargement des joueurs 
 void load_joueur(char *name,int ***symb){
 
     int** tabSymb = malloc( 2*sizeof(int) );
@@ -114,7 +123,7 @@ void load_joueur(char *name,int ***symb){
 
 }
 
-
+// sauvegarde d un joueur
 void save_joueur(int **joueur,char *name){
     int val;
     bool binaire = isBinaire(name);
@@ -127,6 +136,8 @@ void save_joueur(int **joueur,char *name){
         }
     }
 }
+
+// sauvegarde du plateau 
 void save_game(char *name , TplateauJeu matrice , int joueur){
     int val;
     bool binaire = isBinaire(name);
@@ -149,6 +160,8 @@ void save_game(char *name , TplateauJeu matrice , int joueur){
     log_save(name);
 
 }
+
+//sauvegarde les joueurs qui ont abandonnés
 void save_ban(char *name , int *tab , int taille ){
     bool binaire = isBinaire(name);
     binaire ? ecrit_int_bi(name,&taille) : ecrit_int_txt(name,&taille,true);
@@ -157,6 +170,7 @@ void save_ban(char *name , int *tab , int taille ){
 
 }
 
+//les charges
 int *load_ban(char *name){
     FILE *fd ;
 
@@ -173,11 +187,13 @@ int *load_ban(char *name){
 
 }
 
+//affichage
 void affiche_ban(int *tab , int taille ){
     for(int i = 0 ; i<taille ; i++)
         printf("|  %d  ",tab[i]);
 }
 
+// test l existance d un fichier 
 bool existe_txt(const char *name){
     FILE *fd = fopen(name,"rt");
     if(fd == NULL){
@@ -189,6 +205,8 @@ bool existe_txt(const char *name){
         return true;
     }
 }
+
+// supprime un fichier avec gestion d erreur
 int supp_txt(const char *name ){
 
     if (existe_txt(name)){
@@ -198,6 +216,8 @@ int supp_txt(const char *name ){
     else
         return -1;
 }
+
+// recherche le fichier log qui note les sauvegardes
 char* existe_log(char *txt){
 
     FILE *fd = fopen("log.txt","r");
@@ -215,6 +235,7 @@ char* existe_log(char *txt){
     return NULL;
 }
 
+// ajoute une sauvegarde au log
 void log_save(char *name_save){
 
     FILE *fd = fopen("log.txt","a");
@@ -228,6 +249,8 @@ void log_save(char *name_save){
     fclose(fd);
 
 }
+
+// nombres de sauvegarde
 int compte_log(){
     FILE *fd = fopen("log.txt","rt");
     myassert(fd != NULL , "erruer ouverture log.txt");
@@ -240,7 +263,7 @@ int compte_log(){
     return n;
 }
 
-
+// supprime une sauvegarde dans log
 void delete_log(const char *name){
 
     printf("\nDELETE LOG chaine : %s \n",name);
@@ -265,6 +288,8 @@ void delete_log(const char *name){
     supp_txt(name);
     fclose(fd);
 }
+
+// affichage
 void affiche_log(){
 
     FILE *fd = fopen("log.txt","rt");
@@ -281,13 +306,14 @@ void affiche_log(){
     free(nom_log);
 }
 
+// test si le fichier est binaire 
 bool isBinaire( char * nom_fichier){
     int pos = strlen(nom_fichier);
     return nom_fichier[pos-5] == 'b' ? true : false ;
 
 }
 
-
+// interface utilisateur pour la gestion des sauvegardes
 void menu_save(int *joueur , TplateauJeu *j ,int *** jeusymb){
 
     char nom_fichier[200];
@@ -314,6 +340,7 @@ void menu_save(int *joueur , TplateauJeu *j ,int *** jeusymb){
     else { printf("Vous_allez passe a la suite \n");}
 }
 
+// interface utilisateur si il souhaite sauvegarder
 void Sauvegarde(TplateauJeu* j , int* joueur ,int*** jeusymb){
     char nom_fichier[200];
     char reponse[10];
@@ -342,7 +369,7 @@ void Sauvegarde(TplateauJeu* j , int* joueur ,int*** jeusymb){
 
 }
 
-
+// interface des differents choix possible
 void Rappelle_menu(){
     printf("Tapez sur n'importe quel touche pour passer ou tour suivant \n");
     printf("Tapez sur S pour cree une sauvegarde/Save \n");
@@ -351,6 +378,7 @@ void Rappelle_menu(){
     printf("\n");
 }
 
+
 void Concat_char ( char * nom_fichier , char * extension){
     char name[2000]  =  "Sauvegarde/\0" ;
     strcat(name,nom_fichier);
@@ -358,7 +386,7 @@ void Concat_char ( char * nom_fichier , char * extension){
     strcpy(nom_fichier,name);
 }
 
-
+// interface pour les doublons de fichier
 void Save_sans_double( char * nom_fichier , TplateauJeu *j , int *joueur , int ***symb){
     char reponse[2000];
     if ( existe_log(nom_fichier) != NULL ){
@@ -396,6 +424,7 @@ void Save_sans_double( char * nom_fichier , TplateauJeu *j , int *joueur , int *
         printf("Fichier supprimer");
     }
 }
+
 
  void charge_true_save ( char * nom_fichier,int *joueur ,TplateauJeu *j, int ***symb ){
     Concat_char(nom_fichier,"_t.txt");
