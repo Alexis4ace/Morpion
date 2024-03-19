@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include "graph.h"
+// renvoi l indice d un joueur dans le tableau des joueurs
 int numero_j(int **symb , int n){
     for(int i=0 ; i<2 ;i++){
         for(int y=1 ; y<symb[i][0]+1 ; y++){
@@ -18,17 +19,23 @@ int numero_j(int **symb , int n){
     return -1;
 }
 
+//test si l utilisateur click dans la grille
 bool in_matrice(int x , int y , game_t game){
     int espace = game.pixel*2;
     return x>espace && x < game.board*game.pixel+espace && y>espace && y<game.board*game.pixel+espace;
 }
+
+// test si l utilisateur click dans le menu sauvegarde
 bool in_save(int x , int y){
     return x>=LARG-250 && y>=HAUT-400 && y<= HAUT-400+74 && x<=LARG-250+105;
 }
 
+//test si l utilisateur click dans le menu de chargement
 bool in_load(int x , int y){
     return x>=1050 && y>=500 && y<= 650 && x<=1200;
 }
+
+//test si l utilisateur click dans le menu d abandon
 bool in_abandon(int x , int y){
     return x>1050 && x<1170 && y > 100 && y<220;
 }
@@ -43,6 +50,8 @@ void remplir(TplateauJeu j,int **jeusymb,SDL_Renderer *renderer,SDL_Texture *tab
         }
     }
 }
+
+// test si le joueur peux jouer
 bool est_non_ban(game_t game , int player){
 
     for(int i = 1 ; i < game.morpion->ban[0] ; i++ ){
@@ -52,6 +61,7 @@ bool est_non_ban(game_t game , int player){
     return true;
 }
 
+// test dans quel parti il click ( fonctions du dessus )
 void click_game(game_t *game , int clickx , int clicky,SDL_Texture *tab[],SDL_Renderer *renderer){
 
     if(game->morpion->jeuSymb[0][0] == 0)
@@ -130,6 +140,7 @@ void click_game(game_t *game , int clickx , int clicky,SDL_Texture *tab[],SDL_Re
 
 }
 
+// dessine le symbole dans la grille
 void drawRect(SDL_Renderer *renderer,int x , int y , int largx , int largy){
 
     SDL_Rect rectangle;
@@ -152,6 +163,8 @@ void drawRect(SDL_Renderer *renderer,int x , int y , int largx , int largy){
     SDL_RenderPresent(renderer);
 
 }
+
+//chargement de l interface visuel
 void init_vue( SDL_Renderer *renderer , game_t game){
 
 
@@ -173,6 +186,7 @@ void init_vue( SDL_Renderer *renderer , game_t game){
 
 }
 
+// dessine la grille
 void drawBoard(SDL_Renderer *renderer,game_t game){
 
     int largeur =  game.pixel*game.board ;
@@ -186,6 +200,8 @@ void drawBoard(SDL_Renderer *renderer,game_t game){
     }
 
 }
+
+// dessine un rectange de couleur donné
 void drawFullRect(SDL_Surface * surface,int posX, int posY, int width, int length, int R, int G, int B)
 {
 	SDL_Rect Rect;
@@ -196,6 +212,7 @@ void drawFullRect(SDL_Surface * surface,int posX, int posY, int width, int lengt
 
 	SDL_FillRect(surface, &Rect, SDL_MapRGB(surface->format, R, G, B));
 }
+
 void LancementVideo( game_t *game){
 
 
@@ -253,6 +270,8 @@ void LancementVideo( game_t *game){
     SDL_DestroyWindow(window);
     SDL_Quit();
 }
+
+// affiche une image
 void afficheImage(SDL_Texture *texture,int X,int Y,SDL_Renderer *renderer){
 
     SDL_Rect rectangle;
@@ -272,6 +291,7 @@ void afficheImage(SDL_Texture *texture,int X,int Y,SDL_Renderer *renderer){
 
 }
 
+//charge une image
 SDL_Texture *loadImage(const char path[], SDL_Renderer *renderer){
     SDL_Surface *tmp = NULL;
     SDL_Texture *texture = NULL;
@@ -315,7 +335,7 @@ void afficheTxt(char path[],int x , int y , int h , int l,SDL_Renderer *renderer
 
 }*/
 
-
+// liste des images chargées en mémoire
 SDL_Texture **tabImg(SDL_Renderer *renderer){
 
     SDL_Texture **tab;
